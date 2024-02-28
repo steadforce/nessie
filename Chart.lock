@@ -1,0 +1,6 @@
+dependencies:
+- name: nessie
+  repository: https://charts.projectnessie.org
+  version: 0.77.1
+digest: sha256:76376e3ffff271e898c8044f0d4454666df177e3dbeed8931401a87118391cbd
+generated: "2024-02-28T11:42:30.201321609+01:00"

@@ -1,0 +1,7 @@
+apiVersion: v2
+name: nessie
+version: 0.0.0
+dependencies:
+- name: nessie
+  version: 0.77.1
+  repository: https://charts.projectnessie.org
